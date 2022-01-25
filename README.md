@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋, my name is Filippo Betello
+I'm a student at Sapienza University in Rome following the M.Sc in Artificial Intelligence and Robotics.<br>
+I obtained my BSc in Computer and System Engineering in 2021.
 
 <!--
 **FilippoBetello/FilippoBetello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
