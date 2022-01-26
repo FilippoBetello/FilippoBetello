@@ -1,6 +1,16 @@
-## Hi 👋 I'm Filippo Betello
-I'm a student at Sapienza University in Rome following the M.Sc in Artificial Intelligence and Robotics.<br>
-I obtained my BSc in Computer and System Engineering in 2021.
+## 👋 Hi I'm Filippo Betello
+I am a student at Sapienza University in Rome following the M.Sc in Artificial Intelligence and Robotics:robot:.<br>
+I obtained my BSc in Computer and System Engineering in 2021.<br>
+I am first dan black belt in Judo:martial_arts_uniform:.
+## :black_nib: Contact me
+- [Email](mailto:betello.1835108@studenti.uniroma1.it?subject=[GitHub_question])
+## :man_technologist: Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBetello&layout=compact&theme=algolia)](https://github.com/FilippoBetello/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoBetello&show_icons=true&theme=algolia&hide_title=true)
+<br>
+![](https://komarev.com/ghpvc/?username=FilippoBetello&color=blue)
+
+
 <!--
 **FilippoBetello/FilippoBetello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
