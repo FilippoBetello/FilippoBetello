@@ -1,4 +1,4 @@
-## 👋 Hi I'm Filippo Betello
+## 👋 Hi I'm Filippo Betello daje
 I am a student at Sapienza University in Rome following the M.Sc in Artificial Intelligence and Robotics:robot:.<br>
 I obtained my BSc in Computer and System Engineering in 2021.<br>
 **I am first dan black belt in Judo :martial_arts_uniform:.**
