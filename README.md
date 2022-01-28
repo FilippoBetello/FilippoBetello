@@ -5,7 +5,7 @@ I obtained my BSc in Computer and System Engineering in 2021.<br>
 ## :black_nib: Contact me
 - [Email](mailto:betello.1835108@studenti.uniroma1.it?subject=[GitHub_question])
 ## :man_technologist: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBetello&layout=compact&theme=algolia)](https://github.com/FilippoBetello/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBetello&layout=compact&theme=algolia&count_private=true&langs_count=8)](https://github.com/FilippoBetello/github-readme-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=FilippoBetello&color=blue)
 
